@@ -9,7 +9,7 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 // GitHub Pages project sites are served under /<repository-name>/.
 // This package is configured for a repository named "RectifierLab".
 export default defineConfig({
-  base: process.env.GITHUB_ACTIONS ? '/RectifierLab/' : '/',
+  base: process.env.GITHUB_ACTIONS ? '/Rectifier_Lab/' : '/',
   plugins: [react(), tailwindcss()],
   resolve: {
     alias: {
