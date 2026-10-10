@@ -1,0 +1,8 @@
+{
+  "name": "RectifierLab - Power Electronics Studio",
+  "description": "Interactive Single-Phase and Three-Phase Diode & Thyristor Converter Simulator with interactive schematics, real-time waveforms, component drop analysis, and educational dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
